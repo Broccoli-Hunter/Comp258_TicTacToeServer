@@ -1,5 +1,5 @@
 # Comp258_TicTacToeServer
-Tic Tac Toe game implmented on a server
+Tic Tac Toe game implemented on a server
 
 Final Project for Comp258/Object Oriented Software Development
 * March 2022
